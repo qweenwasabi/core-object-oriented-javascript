@@ -1,4 +1,7 @@
 # Core Object Oriented JavaScript
+# Team Name: magnificent-jackrabbit
+
+
 
 A day-by-day structured deep dive into object-oriented JavaScript. Read articles, watch videos, complete lessons and exercises, and implement a final project.
 
