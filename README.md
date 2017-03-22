@@ -21,12 +21,12 @@ Your objectives for the day is to:
   - https://shereef.wistia.com/medias/hn99v12lkr
   - https://shereef.wistia.com/medias/6snmj6es7v
   - https://shereef.wistia.com/medias/5bva01dxbw
-- [ ] Signup for [Udacity Object Oriented Javascript][udacity]
-- [ ] Complete the [Scopes lesson][udacity]
+- [X] Signup for [Udacity Object Oriented Javascript][udacity]
+- [X] Complete the [Scopes lesson][udacity]
 
 ### Closures
 
-- [ ] Complete the [Closures lesson][udacity]
+- [X] Complete the [Closures lesson][udacity]
 
 ## Day 2: Objects and "this"
 
