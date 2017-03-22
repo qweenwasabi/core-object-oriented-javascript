@@ -32,20 +32,20 @@ Your objectives for the day is to:
 
 ### Objects
 
-- [ ] Watch [Video introduction to Object Oriented Javascript](https://www.youtube.com/watch?v=O8wwnhdkPE4) (1 Hour)
+- [X] Watch [Video introduction to Object Oriented Javascript](https://www.youtube.com/watch?v=O8wwnhdkPE4) (1 Hour)
 - [ ] Read [Javascript Objects in Detail](http://javascriptissexy.com/javascript-objects-in-detail/)
-- [ ] Read pages 173 to 184 in [Professional JS for Web Developers][projs]
-- [ ] Signup for a free Team Treehouse trial and complete their [Object Oriented Javascript Course] (https://teamtreehouse.com/library/objectoriented-javascript)
+- [X] Read pages 173 to 184 in [Professional JS for Web Developers][projs]
+- [X] Signup for a free Team Treehouse trial and complete their [Object Oriented Javascript Course] (https://teamtreehouse.com/library/objectoriented-javascript)
 - [ ] Skim this [cheat sheet][cheat]
 
 ### This
 
-- [ ] Watch these videos:
+- [X] Watch these videos:
   - https://shereef.wistia.com/medias/wfybhl2nmr
   - https://shereef.wistia.com/medias/kqbedkmm13
-- [ ] Read [Undrestanding Javascrpt's This with Clarity and Mastery](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
-- [ ] Read [What is this in Javascript](http://www.code-sample.com/2015/06/what-is-this-in-javascript.html)
-- [ ] Complete the [Keyword "this" lesson][udacity]
+- [X] Read [Undrestanding Javascrpt's This with Clarity and Mastery](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
+- [X] Read [What is this in Javascript](http://www.code-sample.com/2015/06/what-is-this-in-javascript.html)
+- [X] Complete the [Keyword "this" lesson][udacity]
 
 ### Stretch
 
@@ -54,13 +54,13 @@ Your objectives for the day is to:
 
 ## Day 3: Prototype and Inheritance
 
-- [ ] Watch these videos on Prototypes:
+- [X] Watch these videos on Prototypes:
   - https://shereef.wistia.com/medias/a5m8nwq4su
   - https://shereef.wistia.com/medias/ednchu35gz
   - https://shereef.wistia.com/medias/yejzrin760
   - https://shereef.wistia.com/medias/372u07ybvu
   - https://shereef.wistia.com/medias/xxj6323pk9
-- [ ] Read [Prototype in Plain English](http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/)
+- [X] Read [Prototype in Plain English](http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/)
 - [ ] Read [OOP in Javascript](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
 - [ ] Complete the [Prototype Chains][udacity] Lesson on Udacity
 - [ ] Complete the [Prototypal Classes][udacity] Lesson on Udacity
