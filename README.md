@@ -33,10 +33,10 @@ Your objectives for the day is to:
 ### Objects
 
 - [X] Watch [Video introduction to Object Oriented Javascript](https://www.youtube.com/watch?v=O8wwnhdkPE4) (1 Hour)
-- [ ] Read [Javascript Objects in Detail](http://javascriptissexy.com/javascript-objects-in-detail/)
+- [X] Read [Javascript Objects in Detail](http://javascriptissexy.com/javascript-objects-in-detail/)
 - [X] Read pages 173 to 184 in [Professional JS for Web Developers][projs]
 - [X] Signup for a free Team Treehouse trial and complete their [Object Oriented Javascript Course] (https://teamtreehouse.com/library/objectoriented-javascript)
-- [ ] Skim this [cheat sheet][cheat]
+- [X] Skim this [cheat sheet][cheat]
 
 ### This
 
@@ -62,8 +62,8 @@ Your objectives for the day is to:
   - https://shereef.wistia.com/medias/xxj6323pk9
 - [X] Read [Prototype in Plain English](http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/)
 - [ ] Read [OOP in Javascript](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
-- [ ] Complete the [Prototype Chains][udacity] Lesson on Udacity
-- [ ] Complete the [Prototypal Classes][udacity] Lesson on Udacity
+- [X] Complete the [Prototype Chains][udacity] Lesson on Udacity
+- [X] Complete the [Prototypal Classes][udacity] Lesson on Udacity
 
 ### Stretch
 
@@ -75,12 +75,12 @@ Your objectives for the day is to:
 
 ## Day 4: Deeper Dive and Final Project
 
-- [ ] Complete the [Object Decorator Pattern][udacity] Lesson on Udacity
-- [ ] Complete the [Functional Classes][udacity] Lesson on Udacity
-- [ ] Complete the [Pseudoclassical Patterns][udacity] Lesson on Udacity
-- [ ] Complete the [Superclass and Subclass Patterns][udacity] Lesson on Udacity
-- [ ] Complete the [Pseudoclassical Sublasses][udacity] Lesson on Udacity
-- [ ] Start (and maybe finish) the [Final Project][udacity] Lesson on Udacity
+- [X] Complete the [Object Decorator Pattern][udacity] Lesson on Udacity
+- [X] Complete the [Functional Classes][udacity] Lesson on Udacity
+- [X] Complete the [Pseudoclassical Patterns][udacity] Lesson on Udacity
+- [X] Complete the [Superclass and Subclass Patterns][udacity] Lesson on Udacity
+- [X] Complete the [Pseudoclassical Sublasses][udacity] Lesson on Udacity
+- [X] Start (and maybe finish) the [Final Project][udacity] Lesson on Udacity
 
 ## Day 5: Final Project and check your understanding
 
